@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MedTrail</string>
+    <string name="network_connection_error">Please Check your internet Connection</string>
+</resources>
